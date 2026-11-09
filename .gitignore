@@ -79,6 +79,9 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Local XOR practice notes
+/neural-networks/XOR-attempts.md
+
 # IPython
 profile_default/
 ipython_config.py

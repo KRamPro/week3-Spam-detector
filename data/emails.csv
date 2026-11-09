@@ -1,0 +1,321 @@
+original_id,variation,label,original_text,word_count,exclamations,money_words,all_caps,links,questions
+1,0,1,WIN a free prize! Claim your cash now at https://prize.example!,12,2,5,1,1,0
+1,1,1,WIN a free prize! Claim your cash now at https://prize.example!,13,1,4,2,1,0
+1,2,1,WIN a free prize! Claim your cash now at https://prize.example!,11,1,6,0,2,1
+1,3,1,WIN a free prize! Claim your cash now at https://prize.example!,13,1,6,1,0,0
+1,4,1,WIN a free prize! Claim your cash now at https://prize.example!,11,1,4,2,2,0
+1,5,1,WIN a free prize! Claim your cash now at https://prize.example!,13,1,6,2,2,1
+1,6,1,WIN a free prize! Claim your cash now at https://prize.example!,12,1,5,2,1,0
+1,7,1,WIN a free prize! Claim your cash now at https://prize.example!,11,3,5,1,1,0
+1,8,1,WIN a free prize! Claim your cash now at https://prize.example!,11,2,4,0,1,0
+1,9,1,WIN a free prize! Claim your cash now at https://prize.example!,12,2,6,1,0,1
+2,0,1,URGENT! Earn money fast! Visit https://offer.example for your reward!,11,3,3,1,1,0
+2,1,1,URGENT! Earn money fast! Visit https://offer.example for your reward!,11,4,2,1,0,1
+2,2,1,URGENT! Earn money fast! Visit https://offer.example for your reward!,11,4,4,1,2,0
+2,3,1,URGENT! Earn money fast! Visit https://offer.example for your reward!,12,2,2,2,0,0
+2,4,1,URGENT! Earn money fast! Visit https://offer.example for your reward!,10,2,2,1,1,0
+2,5,1,URGENT! Earn money fast! Visit https://offer.example for your reward!,12,3,2,1,1,0
+2,6,1,URGENT! Earn money fast! Visit https://offer.example for your reward!,12,3,4,2,2,0
+2,7,1,URGENT! Earn money fast! Visit https://offer.example for your reward!,12,4,2,2,2,0
+2,8,1,URGENT! Earn money fast! Visit https://offer.example for your reward!,10,3,3,1,2,1
+2,9,1,URGENT! Earn money fast! Visit https://offer.example for your reward!,12,2,4,1,0,0
+3,0,1,FREE credit offer! Apply now at https://credit.example!,9,2,4,1,1,0
+3,1,1,FREE credit offer! Apply now at https://credit.example!,8,2,4,1,0,0
+3,2,1,FREE credit offer! Apply now at https://credit.example!,10,3,4,0,2,0
+3,3,1,FREE credit offer! Apply now at https://credit.example!,9,3,4,0,1,0
+3,4,1,FREE credit offer! Apply now at https://credit.example!,8,3,5,2,1,1
+3,5,1,FREE credit offer! Apply now at https://credit.example!,10,2,5,1,1,0
+3,6,1,FREE credit offer! Apply now at https://credit.example!,8,3,4,0,0,0
+3,7,1,FREE credit offer! Apply now at https://credit.example!,8,3,3,2,1,1
+3,8,1,FREE credit offer! Apply now at https://credit.example!,8,2,4,2,1,1
+3,9,1,FREE credit offer! Apply now at https://credit.example!,9,3,3,2,2,0
+4,0,1,You won a cash prize! Click https://winner.example today!,10,2,3,0,1,0
+4,1,1,You won a cash prize! Click https://winner.example today!,11,3,3,1,1,0
+4,2,1,You won a cash prize! Click https://winner.example today!,10,2,2,0,0,1
+4,3,1,You won a cash prize! Click https://winner.example today!,11,2,4,0,2,0
+4,4,1,You won a cash prize! Click https://winner.example today!,11,2,4,1,2,0
+4,5,1,You won a cash prize! Click https://winner.example today!,9,2,2,1,2,0
+4,6,1,You won a cash prize! Click https://winner.example today!,11,2,3,0,0,0
+4,7,1,You won a cash prize! Click https://winner.example today!,10,1,2,0,2,0
+4,8,1,You won a cash prize! Click https://winner.example today!,9,3,3,0,2,0
+4,9,1,You won a cash prize! Click https://winner.example today!,9,3,3,1,0,0
+5,0,1,Limited offer! Get free money at https://deal.example!,9,2,3,0,1,0
+5,1,1,Limited offer! Get free money at https://deal.example!,10,3,3,0,2,1
+5,2,1,Limited offer! Get free money at https://deal.example!,10,1,4,0,1,1
+5,3,1,Limited offer! Get free money at https://deal.example!,10,2,3,1,1,0
+5,4,1,Limited offer! Get free money at https://deal.example!,8,1,2,0,0,1
+5,5,1,Limited offer! Get free money at https://deal.example!,10,1,4,0,0,0
+5,6,1,Limited offer! Get free money at https://deal.example!,10,3,2,0,0,0
+5,7,1,Limited offer! Get free money at https://deal.example!,9,1,4,0,1,1
+5,8,1,Limited offer! Get free money at https://deal.example!,9,1,4,0,2,1
+5,9,1,Limited offer! Get free money at https://deal.example!,10,2,2,0,1,0
+6,0,1,ACT NOW! Win a prize! Go to https://win.example!,10,3,3,2,1,0
+6,1,1,ACT NOW! Win a prize! Go to https://win.example!,9,2,4,2,1,0
+6,2,1,ACT NOW! Win a prize! Go to https://win.example!,10,3,4,1,2,1
+6,3,1,ACT NOW! Win a prize! Go to https://win.example!,11,2,2,2,2,0
+6,4,1,ACT NOW! Win a prize! Go to https://win.example!,9,2,2,1,2,0
+6,5,1,ACT NOW! Win a prize! Go to https://win.example!,9,3,2,2,1,0
+6,6,1,ACT NOW! Win a prize! Go to https://win.example!,9,3,4,1,0,1
+6,7,1,ACT NOW! Win a prize! Go to https://win.example!,11,2,2,1,0,0
+6,8,1,ACT NOW! Win a prize! Go to https://win.example!,10,3,2,2,0,0
+6,9,1,ACT NOW! Win a prize! Go to https://win.example!,10,2,3,2,1,0
+7,0,1,Earn cash from home! Sign up at https://earn.example!,10,2,3,0,1,0
+7,1,1,Earn cash from home! Sign up at https://earn.example!,10,3,4,1,2,1
+7,2,1,Earn cash from home! Sign up at https://earn.example!,10,1,2,0,0,0
+7,3,1,Earn cash from home! Sign up at https://earn.example!,11,3,4,0,2,0
+7,4,1,Earn cash from home! Sign up at https://earn.example!,9,1,4,0,2,1
+7,5,1,Earn cash from home! Sign up at https://earn.example!,9,1,4,0,0,0
+7,6,1,Earn cash from home! Sign up at https://earn.example!,11,1,4,0,1,0
+7,7,1,Earn cash from home! Sign up at https://earn.example!,11,1,4,1,0,1
+7,8,1,Earn cash from home! Sign up at https://earn.example!,9,2,4,1,2,1
+7,9,1,Earn cash from home! Sign up at https://earn.example!,10,2,2,1,2,0
+8,0,1,Your FREE reward is waiting! Claim it at https://gift.example!,11,2,1,1,1,0
+8,1,1,Your FREE reward is waiting! Claim it at https://gift.example!,10,2,1,0,2,1
+8,2,1,Your FREE reward is waiting! Claim it at https://gift.example!,11,2,1,0,0,0
+8,3,1,Your FREE reward is waiting! Claim it at https://gift.example!,12,3,0,0,2,0
+8,4,1,Your FREE reward is waiting! Claim it at https://gift.example!,12,2,0,1,0,0
+8,5,1,Your FREE reward is waiting! Claim it at https://gift.example!,11,2,0,1,2,1
+8,6,1,Your FREE reward is waiting! Claim it at https://gift.example!,11,3,2,2,0,1
+8,7,1,Your FREE reward is waiting! Claim it at https://gift.example!,12,2,2,0,0,0
+8,8,1,Your FREE reward is waiting! Claim it at https://gift.example!,10,1,2,2,0,0
+8,9,1,Your FREE reward is waiting! Claim it at https://gift.example!,11,3,0,2,1,0
+9,0,1,Congratulations! You have won free tickets at https://tickets.example!,10,2,2,0,1,0
+9,1,1,Congratulations! You have won free tickets at https://tickets.example!,11,3,2,1,1,0
+9,2,1,Congratulations! You have won free tickets at https://tickets.example!,9,1,3,0,1,0
+9,3,1,Congratulations! You have won free tickets at https://tickets.example!,9,2,1,1,1,0
+9,4,1,Congratulations! You have won free tickets at https://tickets.example!,11,2,3,1,1,1
+9,5,1,Congratulations! You have won free tickets at https://tickets.example!,9,1,1,1,0,1
+9,6,1,Congratulations! You have won free tickets at https://tickets.example!,9,2,3,1,0,0
+9,7,1,Congratulations! You have won free tickets at https://tickets.example!,9,1,2,0,0,0
+9,8,1,Congratulations! You have won free tickets at https://tickets.example!,9,3,1,1,0,0
+9,9,1,Congratulations! You have won free tickets at https://tickets.example!,11,2,3,1,0,0
+10,0,1,Confirm your account details to receive your cash reward.,9,0,1,0,0,0
+10,1,1,Confirm your account details to receive your cash reward.,8,0,1,0,0,1
+10,2,1,Confirm your account details to receive your cash reward.,9,0,2,1,0,0
+10,3,1,Confirm your account details to receive your cash reward.,8,1,0,0,0,0
+10,4,1,Confirm your account details to receive your cash reward.,8,0,1,0,0,0
+10,5,1,Confirm your account details to receive your cash reward.,8,0,2,0,0,0
+10,6,1,Confirm your account details to receive your cash reward.,9,0,1,0,1,1
+10,7,1,Confirm your account details to receive your cash reward.,9,1,2,0,0,0
+10,8,1,Confirm your account details to receive your cash reward.,9,0,2,0,0,0
+10,9,1,Confirm your account details to receive your cash reward.,10,0,1,1,0,0
+11,0,1,Final notice: earn a bonus today at https://bonus.example!,10,1,1,0,1,0
+11,1,1,Final notice: earn a bonus today at https://bonus.example!,11,2,0,0,2,0
+11,2,1,Final notice: earn a bonus today at https://bonus.example!,10,0,2,0,0,1
+11,3,1,Final notice: earn a bonus today at https://bonus.example!,11,2,2,1,2,1
+11,4,1,Final notice: earn a bonus today at https://bonus.example!,9,1,1,0,2,0
+11,5,1,Final notice: earn a bonus today at https://bonus.example!,11,1,2,0,2,0
+11,6,1,Final notice: earn a bonus today at https://bonus.example!,11,1,2,0,1,0
+11,7,1,Final notice: earn a bonus today at https://bonus.example!,11,1,2,0,0,0
+11,8,1,Final notice: earn a bonus today at https://bonus.example!,11,1,2,1,0,1
+11,9,1,Final notice: earn a bonus today at https://bonus.example!,11,1,1,1,0,0
+12,0,1,You've been selected for a prize. Reply now to collect it!,12,1,1,0,0,0
+12,1,1,You've been selected for a prize. Reply now to collect it!,12,0,1,1,1,1
+12,2,1,You've been selected for a prize. Reply now to collect it!,12,1,1,0,1,0
+12,3,1,You've been selected for a prize. Reply now to collect it!,13,1,2,0,1,0
+12,4,1,You've been selected for a prize. Reply now to collect it!,12,2,2,1,1,0
+12,5,1,You've been selected for a prize. Reply now to collect it!,11,0,2,0,0,0
+12,6,1,You've been selected for a prize. Reply now to collect it!,11,0,0,0,0,1
+12,7,1,You've been selected for a prize. Reply now to collect it!,11,1,1,1,1,0
+12,8,1,You've been selected for a prize. Reply now to collect it!,13,2,1,0,0,0
+12,9,1,You've been selected for a prize. Reply now to collect it!,11,2,2,0,0,0
+13,0,1,Special credit offer available at https://loan.example today!,9,1,2,0,1,0
+13,1,1,Special credit offer available at https://loan.example today!,8,0,3,1,1,0
+13,2,1,Special credit offer available at https://loan.example today!,10,0,1,0,0,0
+13,3,1,Special credit offer available at https://loan.example today!,10,2,3,1,1,0
+13,4,1,Special credit offer available at https://loan.example today!,10,2,3,0,2,0
+13,5,1,Special credit offer available at https://loan.example today!,8,2,2,0,1,0
+13,6,1,Special credit offer available at https://loan.example today!,10,1,3,0,2,0
+13,7,1,Special credit offer available at https://loan.example today!,9,1,1,1,1,0
+13,8,1,Special credit offer available at https://loan.example today!,9,1,2,1,0,0
+13,9,1,Special credit offer available at https://loan.example today!,8,0,2,1,0,1
+14,0,1,FREE vacation waiting for you! Visit https://travel.example!,9,2,1,1,1,0
+14,1,1,FREE vacation waiting for you! Visit https://travel.example!,8,1,1,1,1,1
+14,2,1,FREE vacation waiting for you! Visit https://travel.example!,9,2,0,0,1,0
+14,3,1,FREE vacation waiting for you! Visit https://travel.example!,10,3,0,2,1,0
+14,4,1,FREE vacation waiting for you! Visit https://travel.example!,8,2,1,1,1,1
+14,5,1,FREE vacation waiting for you! Visit https://travel.example!,10,3,2,2,0,0
+14,6,1,FREE vacation waiting for you! Visit https://travel.example!,8,2,1,1,0,0
+14,7,1,FREE vacation waiting for you! Visit https://travel.example!,9,3,2,1,2,0
+14,8,1,FREE vacation waiting for you! Visit https://travel.example!,9,1,2,2,0,0
+14,9,1,FREE vacation waiting for you! Visit https://travel.example!,10,3,2,0,0,1
+15,0,1,Make extra money from home by signing up today!,9,1,1,0,0,0
+15,1,1,Make extra money from home by signing up today!,9,0,1,0,0,0
+15,2,1,Make extra money from home by signing up today!,9,1,0,0,0,0
+15,3,1,Make extra money from home by signing up today!,9,1,1,0,0,0
+15,4,1,Make extra money from home by signing up today!,8,2,2,0,0,0
+15,5,1,Make extra money from home by signing up today!,10,0,2,0,0,0
+15,6,1,Make extra money from home by signing up today!,8,0,2,0,0,0
+15,7,1,Make extra money from home by signing up today!,9,2,0,1,0,0
+15,8,1,Make extra money from home by signing up today!,10,1,1,0,1,1
+15,9,1,Make extra money from home by signing up today!,10,2,0,0,0,0
+16,0,1,WIN a new phone! Claim your reward at https://phone.example!,11,2,1,1,1,0
+16,1,1,WIN a new phone! Claim your reward at https://phone.example!,12,1,1,2,2,0
+16,2,1,WIN a new phone! Claim your reward at https://phone.example!,11,3,0,0,2,1
+16,3,1,WIN a new phone! Claim your reward at https://phone.example!,12,1,0,2,1,1
+16,4,1,WIN a new phone! Claim your reward at https://phone.example!,12,1,2,0,1,1
+16,5,1,WIN a new phone! Claim your reward at https://phone.example!,11,3,1,0,2,1
+16,6,1,WIN a new phone! Claim your reward at https://phone.example!,11,1,1,1,0,0
+16,7,1,WIN a new phone! Claim your reward at https://phone.example!,11,3,1,2,0,0
+16,8,1,WIN a new phone! Claim your reward at https://phone.example!,10,3,2,2,1,1
+16,9,1,WIN a new phone! Claim your reward at https://phone.example!,12,2,1,1,2,1
+17,0,0,"Hi, can we meet on Tuesday to discuss the project?",10,0,0,0,0,1
+17,1,0,"Hi, can we meet on Tuesday to discuss the project?",10,0,0,0,0,1
+17,2,0,"Hi, can we meet on Tuesday to discuss the project?",9,0,1,1,1,1
+17,3,0,"Hi, can we meet on Tuesday to discuss the project?",10,0,0,0,0,1
+17,4,0,"Hi, can we meet on Tuesday to discuss the project?",9,0,0,0,0,2
+17,5,0,"Hi, can we meet on Tuesday to discuss the project?",11,0,1,0,1,0
+17,6,0,"Hi, can we meet on Tuesday to discuss the project?",9,0,1,0,0,2
+17,7,0,"Hi, can we meet on Tuesday to discuss the project?",9,1,0,1,1,1
+17,8,0,"Hi, can we meet on Tuesday to discuss the project?",10,0,0,0,0,1
+17,9,0,"Hi, can we meet on Tuesday to discuss the project?",11,0,0,1,1,1
+18,0,0,The meeting notes are ready. Please review them before Friday.,10,0,0,0,0,0
+18,1,0,The meeting notes are ready. Please review them before Friday.,10,1,1,0,0,1
+18,2,0,The meeting notes are ready. Please review them before Friday.,11,0,0,1,0,0
+18,3,0,The meeting notes are ready. Please review them before Friday.,10,0,0,0,1,0
+18,4,0,The meeting notes are ready. Please review them before Friday.,10,0,1,1,1,0
+18,5,0,The meeting notes are ready. Please review them before Friday.,9,0,1,0,0,1
+18,6,0,The meeting notes are ready. Please review them before Friday.,11,1,1,0,0,0
+18,7,0,The meeting notes are ready. Please review them before Friday.,10,0,0,0,0,0
+18,8,0,The meeting notes are ready. Please review them before Friday.,11,1,0,0,0,0
+18,9,0,The meeting notes are ready. Please review them before Friday.,11,0,1,0,1,0
+19,0,0,Thanks for helping with the presentation yesterday.,7,0,0,0,0,0
+19,1,0,Thanks for helping with the presentation yesterday.,6,0,1,0,0,0
+19,2,0,Thanks for helping with the presentation yesterday.,7,0,0,0,0,0
+19,3,0,Thanks for helping with the presentation yesterday.,6,0,0,0,0,1
+19,4,0,Thanks for helping with the presentation yesterday.,8,1,0,0,0,1
+19,5,0,Thanks for helping with the presentation yesterday.,7,0,0,0,1,0
+19,6,0,Thanks for helping with the presentation yesterday.,8,1,1,0,1,0
+19,7,0,Thanks for helping with the presentation yesterday.,7,0,0,1,0,0
+19,8,0,Thanks for helping with the presentation yesterday.,8,1,0,1,1,0
+19,9,0,Thanks for helping with the presentation yesterday.,6,1,0,0,1,0
+20,0,0,Your appointment is scheduled for Monday at ten.,8,0,0,0,0,0
+20,1,0,Your appointment is scheduled for Monday at ten.,7,0,0,1,0,0
+20,2,0,Your appointment is scheduled for Monday at ten.,7,0,0,1,1,0
+20,3,0,Your appointment is scheduled for Monday at ten.,8,0,0,0,1,0
+20,4,0,Your appointment is scheduled for Monday at ten.,9,0,0,1,0,0
+20,5,0,Your appointment is scheduled for Monday at ten.,9,1,1,0,0,0
+20,6,0,Your appointment is scheduled for Monday at ten.,9,0,1,0,0,0
+20,7,0,Your appointment is scheduled for Monday at ten.,7,0,0,0,1,1
+20,8,0,Your appointment is scheduled for Monday at ten.,9,0,0,0,0,1
+20,9,0,Your appointment is scheduled for Monday at ten.,8,1,0,0,1,1
+21,0,0,Could you send me the updated report when you have time?,11,0,0,0,0,1
+21,1,0,Could you send me the updated report when you have time?,11,0,0,1,0,1
+21,2,0,Could you send me the updated report when you have time?,12,0,1,0,0,0
+21,3,0,Could you send me the updated report when you have time?,10,1,1,1,0,2
+21,4,0,Could you send me the updated report when you have time?,11,1,0,0,0,2
+21,5,0,Could you send me the updated report when you have time?,12,0,0,0,1,1
+21,6,0,Could you send me the updated report when you have time?,12,0,0,0,0,1
+21,7,0,Could you send me the updated report when you have time?,11,0,1,0,0,1
+21,8,0,Could you send me the updated report when you have time?,11,1,0,0,1,1
+21,9,0,Could you send me the updated report when you have time?,12,0,0,0,0,1
+22,0,0,Dinner is at six tonight. See you there!,8,1,0,0,0,0
+22,1,0,Dinner is at six tonight. See you there!,8,0,0,1,0,1
+22,2,0,Dinner is at six tonight. See you there!,9,1,0,0,0,1
+22,3,0,Dinner is at six tonight. See you there!,8,2,0,1,0,0
+22,4,0,Dinner is at six tonight. See you there!,7,1,1,0,0,0
+22,5,0,Dinner is at six tonight. See you there!,9,1,0,0,1,1
+22,6,0,Dinner is at six tonight. See you there!,7,2,0,0,1,0
+22,7,0,Dinner is at six tonight. See you there!,9,1,0,0,0,0
+22,8,0,Dinner is at six tonight. See you there!,7,2,0,0,1,0
+22,9,0,Dinner is at six tonight. See you there!,9,2,0,0,0,0
+23,0,0,Here is the class schedule: https://school.example/schedule,9,0,0,0,1,0
+23,1,0,Here is the class schedule: https://school.example/schedule,8,0,1,0,1,0
+23,2,0,Here is the class schedule: https://school.example/schedule,10,1,1,0,0,0
+23,3,0,Here is the class schedule: https://school.example/schedule,9,0,1,0,0,0
+23,4,0,Here is the class schedule: https://school.example/schedule,10,0,1,1,2,0
+23,5,0,Here is the class schedule: https://school.example/schedule,8,0,1,0,1,0
+23,6,0,Here is the class schedule: https://school.example/schedule,10,1,0,0,1,0
+23,7,0,Here is the class schedule: https://school.example/schedule,10,0,1,0,0,0
+23,8,0,Here is the class schedule: https://school.example/schedule,8,0,1,0,2,0
+23,9,0,Here is the class schedule: https://school.example/schedule,9,1,1,0,1,0
+24,0,0,Please let me know if you can cover my shift tomorrow.,11,0,0,0,0,0
+24,1,0,Please let me know if you can cover my shift tomorrow.,10,1,1,0,0,0
+24,2,0,Please let me know if you can cover my shift tomorrow.,10,1,0,0,1,0
+24,3,0,Please let me know if you can cover my shift tomorrow.,11,1,0,0,0,0
+24,4,0,Please let me know if you can cover my shift tomorrow.,11,1,1,0,1,0
+24,5,0,Please let me know if you can cover my shift tomorrow.,11,1,1,0,0,1
+24,6,0,Please let me know if you can cover my shift tomorrow.,12,0,1,0,1,0
+24,7,0,Please let me know if you can cover my shift tomorrow.,10,1,1,0,0,1
+24,8,0,Please let me know if you can cover my shift tomorrow.,10,0,0,1,1,0
+24,9,0,Please let me know if you can cover my shift tomorrow.,11,0,1,0,0,0
+25,0,0,The library books are due next week. Can you return them?,11,0,0,0,0,1
+25,1,0,The library books are due next week. Can you return them?,11,0,0,0,0,1
+25,2,0,The library books are due next week. Can you return them?,10,0,1,0,1,2
+25,3,0,The library books are due next week. Can you return them?,10,0,0,0,1,1
+25,4,0,The library books are due next week. Can you return them?,12,1,0,0,1,0
+25,5,0,The library books are due next week. Can you return them?,10,0,1,0,0,1
+25,6,0,The library books are due next week. Can you return them?,12,0,0,0,1,2
+25,7,0,The library books are due next week. Can you return them?,10,0,0,0,1,1
+25,8,0,The library books are due next week. Can you return them?,12,0,1,0,0,1
+25,9,0,The library books are due next week. Can you return them?,10,0,0,0,0,1
+26,0,0,Your order has shipped and should arrive on Wednesday.,9,0,0,0,0,0
+26,1,0,Your order has shipped and should arrive on Wednesday.,10,0,1,0,1,0
+26,2,0,Your order has shipped and should arrive on Wednesday.,8,1,0,0,0,1
+26,3,0,Your order has shipped and should arrive on Wednesday.,10,1,0,1,1,0
+26,4,0,Your order has shipped and should arrive on Wednesday.,9,0,1,0,0,1
+26,5,0,Your order has shipped and should arrive on Wednesday.,8,1,0,1,1,1
+26,6,0,Your order has shipped and should arrive on Wednesday.,10,0,1,0,1,1
+26,7,0,Your order has shipped and should arrive on Wednesday.,8,0,0,0,1,0
+26,8,0,Your order has shipped and should arrive on Wednesday.,10,0,0,0,0,1
+26,9,0,Your order has shipped and should arrive on Wednesday.,9,0,0,0,1,0
+27,0,0,Here is the link to our shared project: https://class.example/project,12,0,0,0,1,0
+27,1,0,Here is the link to our shared project: https://class.example/project,13,1,0,0,1,0
+27,2,0,Here is the link to our shared project: https://class.example/project,12,1,0,0,1,0
+27,3,0,Here is the link to our shared project: https://class.example/project,11,0,1,1,2,0
+27,4,0,Here is the link to our shared project: https://class.example/project,13,0,0,0,0,0
+27,5,0,Here is the link to our shared project: https://class.example/project,13,0,0,0,2,1
+27,6,0,Here is the link to our shared project: https://class.example/project,13,0,1,0,2,0
+27,7,0,Here is the link to our shared project: https://class.example/project,11,1,0,0,0,1
+27,8,0,Here is the link to our shared project: https://class.example/project,13,0,1,0,2,0
+27,9,0,Here is the link to our shared project: https://class.example/project,13,0,1,0,2,0
+28,0,0,Thank you for your application. We would like to schedule an interview.,12,0,0,0,0,0
+28,1,0,Thank you for your application. We would like to schedule an interview.,11,0,0,0,0,0
+28,2,0,Thank you for your application. We would like to schedule an interview.,11,0,0,1,0,0
+28,3,0,Thank you for your application. We would like to schedule an interview.,12,0,1,1,1,1
+28,4,0,Thank you for your application. We would like to schedule an interview.,12,1,1,1,0,0
+28,5,0,Thank you for your application. We would like to schedule an interview.,13,0,0,1,0,0
+28,6,0,Thank you for your application. We would like to schedule an interview.,11,1,0,0,0,0
+28,7,0,Thank you for your application. We would like to schedule an interview.,11,0,0,1,0,1
+28,8,0,Thank you for your application. We would like to schedule an interview.,13,0,0,0,0,0
+28,9,0,Thank you for your application. We would like to schedule an interview.,11,0,0,1,0,1
+29,0,0,Could you bring the notes to class tomorrow?,8,0,0,0,0,1
+29,1,0,Could you bring the notes to class tomorrow?,9,1,0,0,0,0
+29,2,0,Could you bring the notes to class tomorrow?,7,1,0,0,1,0
+29,3,0,Could you bring the notes to class tomorrow?,9,0,0,0,0,2
+29,4,0,Could you bring the notes to class tomorrow?,7,0,0,0,1,1
+29,5,0,Could you bring the notes to class tomorrow?,7,0,1,0,0,0
+29,6,0,Could you bring the notes to class tomorrow?,8,0,1,0,0,0
+29,7,0,Could you bring the notes to class tomorrow?,8,0,0,1,0,2
+29,8,0,Could you bring the notes to class tomorrow?,7,1,0,0,0,1
+29,9,0,Could you bring the notes to class tomorrow?,9,1,0,0,1,0
+30,0,0,The office will be closed on Monday for the holiday.,10,0,0,0,0,0
+30,1,0,The office will be closed on Monday for the holiday.,11,0,1,1,1,0
+30,2,0,The office will be closed on Monday for the holiday.,10,1,0,0,0,0
+30,3,0,The office will be closed on Monday for the holiday.,10,1,0,0,1,0
+30,4,0,The office will be closed on Monday for the holiday.,9,0,0,1,0,0
+30,5,0,The office will be closed on Monday for the holiday.,9,0,1,1,1,1
+30,6,0,The office will be closed on Monday for the holiday.,11,0,0,1,1,0
+30,7,0,The office will be closed on Monday for the holiday.,10,1,1,0,0,1
+30,8,0,The office will be closed on Monday for the holiday.,9,1,1,1,1,0
+30,9,0,The office will be closed on Monday for the holiday.,10,0,0,0,0,0
+31,0,0,Happy birthday! I hope you have a wonderful day!,9,2,0,0,0,0
+31,1,0,Happy birthday! I hope you have a wonderful day!,9,2,1,0,0,0
+31,2,0,Happy birthday! I hope you have a wonderful day!,9,3,0,0,0,1
+31,3,0,Happy birthday! I hope you have a wonderful day!,9,1,0,0,0,0
+31,4,0,Happy birthday! I hope you have a wonderful day!,8,3,1,0,0,1
+31,5,0,Happy birthday! I hope you have a wonderful day!,8,3,1,1,0,1
+31,6,0,Happy birthday! I hope you have a wonderful day!,8,2,0,1,0,1
+31,7,0,Happy birthday! I hope you have a wonderful day!,8,2,1,0,0,0
+31,8,0,Happy birthday! I hope you have a wonderful day!,10,3,0,0,1,0
+31,9,0,Happy birthday! I hope you have a wonderful day!,8,1,0,1,0,0
+32,0,0,Your credit card statement is available in your account.,9,0,1,0,0,0
+32,1,0,Your credit card statement is available in your account.,9,1,0,0,1,1
+32,2,0,Your credit card statement is available in your account.,10,1,2,1,0,1
+32,3,0,Your credit card statement is available in your account.,10,1,1,0,0,0
+32,4,0,Your credit card statement is available in your account.,10,0,1,0,0,0
+32,5,0,Your credit card statement is available in your account.,8,1,2,0,0,0
+32,6,0,Your credit card statement is available in your account.,10,1,0,0,1,1
+32,7,0,Your credit card statement is available in your account.,8,0,1,0,0,0
+32,8,0,Your credit card statement is available in your account.,9,0,2,0,1,1
+32,9,0,Your credit card statement is available in your account.,8,0,0,0,1,0
